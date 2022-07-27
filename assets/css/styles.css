@@ -1,0 +1,39 @@
+@media screen and (max-width: 425px) {
+    .sm-bg-blue {
+        background-color: #acc8e5;
+    }
+
+    .sm-bg-brown {
+        color: #5b0606;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .md-bg-purple {
+        background-color: #5d159d;
+    }
+
+    .md-text-turquoise {
+        color: #00fff7;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .lg-bg-green {
+        background-color: #169c39;
+    }
+
+    .lg-text-black {
+        color: #000000;
+    }
+}
+
+@media screen and (min-width: 2560px) {
+    .xl-bg-black {
+        background-color: #000000;
+    }
+
+    .xl-text-white {
+        color: white;
+    }
+}
